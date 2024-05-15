@@ -11,6 +11,11 @@ For real, you would also need to install [Mobile ALOHA](https://github.com/MarkF
 You can find all scripted/human demo for simulated environments [here](https://drive.google.com/drive/folders/1gPR03v05S1xiInoVJn7G7VJ9pDCnxq9O?usp=share_link).
 
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=MarkFzp/act-plus-plus&type=Date)](https://star-history.com/#MarkFzp/act-plus-plus&Date)
+
+
 ### Repo Structure
 - ``imitate_episodes.py`` Train and Evaluate ACT
 - ``policy.py`` An adaptor for ACT policy
